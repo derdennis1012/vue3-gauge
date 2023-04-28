@@ -1,6 +1,6 @@
 {
   "name": "vue3-gauge",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Vue3 Gauge Plugin",
   "main": "index.vue",
   "repository": {
