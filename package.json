@@ -1,6 +1,6 @@
 {
   "name": "vue3-gauge",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Vue3 Gauge Plugin",
   "main": "index.vue",
   "repository": {
@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/derdennis1012/vue3-gauge#readme",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test.js"
   }
 }
